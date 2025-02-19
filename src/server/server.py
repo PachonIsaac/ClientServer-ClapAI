@@ -3,7 +3,7 @@ import numpy as np
 import torch
 import librosa
 import soundfile as sf
-from predict import transform_audio, load_model
+from model.predict import transform_audio, load_model
 
 app = FastAPI()
 
