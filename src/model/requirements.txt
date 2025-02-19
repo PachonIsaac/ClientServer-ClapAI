@@ -1,0 +1,8 @@
+sounddevice
+soundfile
+torch
+scipy
+numpy
+librosa
+pydub
+datasets
