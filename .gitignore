@@ -1,1 +1,3 @@
 .venv
+./src/model/data/*
+./src/model/data_copy/*
